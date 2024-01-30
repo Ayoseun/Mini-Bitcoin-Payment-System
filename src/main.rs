@@ -9,8 +9,7 @@ use inquire::Select;
 
 fn main() {
     println!("-----------------------------------");
-    println!("Welcome to cryptomart! by Malkryte");
-    println!("Welcome to cryptomart! by Malkryte");
+    println!("Welcome to mini-bitpay! by Ayoseun");
     println!("-----------------------------------");
     
 
